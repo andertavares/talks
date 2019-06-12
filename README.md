@@ -12,7 +12,7 @@ Talks and presentations (deprecated, see the updated list on: http://andertavare
 
 ### 2017
 
-* (in portuguese) Palestra na Universidade Federal de Viçosa: Inteligência artificial em jogos digitais – planejamento, aprendizado e raciocínio estratégico. [[Video]](https://youtu.be/aEKEPeH69Dc)
+* (in portuguese) Palestra na Universidade Federal de Viçosa: Inteligência artificial em jogos digitais – planejamento, aprendizado e raciocínio estratégico. [[Parte 1]](https://youtu.be/aEKEPeH69Dc) - [[Parte 2]](https://youtu.be/ygy9pRERN2A)
 
 ### 2016
 
